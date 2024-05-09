@@ -8,7 +8,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
-<img src="100_pixel.png" alt="WAR" min-width="100px" max-width="100px" width="100px" align="right">
-<img src="101_pixel.png" alt="WAR" min-width="100px" max-width="100px" width="100px" align="right">
-<img src="102_pixel.png" alt="WAR" min-width="100px" max-width="100px" width="100px" align="right">
-<img src="103_pixel.png" alt="WAR" min-width="100px" max-width="100px" width="100px" align="right">
+<img src="103_pixel.png" alt="WAR" min-width="90px" max-width="90px" width="90px" align="right">
+<img src="102_pixel.png" alt="WAR" min-width="90px" max-width="90px" width="90px" align="right">
+<img src="101_pixel.png" alt="WAR" min-width="90px" max-width="90px" width="90px" align="right">
+<img src="100_pixel.png" alt="WAR" min-width="90px" max-width="90px" width="90px" align="right">
