@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasPagli&show_icons=true&title_color=bb0a21&text_color=bb0a21&icon_color=bb0a21&bg_color=252627&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasPagli&show_icons=true&title_color=bb0a21&text_color=D41B34&icon_color=bb0a21&bg_color=252627&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Lucas Pagliarini!
 
