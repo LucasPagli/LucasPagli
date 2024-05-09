@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasPagli&show_icons=true&title_color=bb0a21&text_color=D41B34&icon_color=bb0a21&bg_color=252627&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasPagli&show_icons=true&title_color=bb0a21&text_color=D41B34&icon_color=bb0a21&bg_color=121212&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Lucas Pagliarini!
 
@@ -8,11 +8,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
-<br>
-
-<img src="https://lh6.googleusercontent.com/proxy/8g7Xl4xMNAxEkgxN5k88Rl83KCliDZrU8hXf4lEpYGA2AQT8JSMMhBMKNkeUE8nGThtvl4r2_yyUYDtOa2ooaqIwt4LZlXZrUOZxRGvYJMwhb04DxjW6mZzvbckO" alt="WAR" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Sou estagiário Backend na Jazz Tech e aluno na faculdade SpTech, gosto do processo criativo e de desenvolvimento de ideias.
-  Aspiro ser desenvolvedor de jogos futuramente. Tendo inspirações como Final Fantasy XIV.
-</p>
+<img src="100_pixel.png" alt="WAR" min-width="50px" max-width="50px" width="50px" align="right">
+<img src="101_pixel.png" alt="WAR" min-width="50px" max-width="50px" width="50px" align="right">
+<img src="102_pixel.png" alt="WAR" min-width="50px" max-width="50px" width="50px" align="right">
+<img src="103_pixel.png" alt="WAR" min-width="50px" max-width="50px" width="50px" align="right">
