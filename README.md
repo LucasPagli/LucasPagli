@@ -6,13 +6,7 @@
 
 <p>Trabalhando na Jazz Tech<br/> Eu sou desenvolvedor Backend</p>
 
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
-<br>
-
-<img src="https://lh6.googleusercontent.com/proxy/8g7Xl4xMNAxEkgxN5k88Rl83KCliDZrU8hXf4lEpYGA2AQT8JSMMhBMKNkeUE8nGThtvl4r2_yyUYDtOa2ooaqIwt4LZlXZrUOZxRGvYJMwhb04DxjW6mZzvbckO" alt="WAR" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Sou estagiário Backend na Jazz Tech e aluno na faculdade SpTech, gosto do processo criativo e de desenvolvimento de ideias.
-  Aspiro ser desenvolvedor de jogos futuramente. Tendo inspirações como Final Fantasy XIV.
-</p>
