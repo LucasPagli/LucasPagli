@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasPagliarini&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Jazz Tech<br/> Eu sou desenvolvedor Backend <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code></p>
+<p>Trabalhando na Jazz Tech<br/> Eu sou desenvolvedor Backend <img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
 
